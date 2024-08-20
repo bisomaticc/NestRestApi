@@ -10,3 +10,6 @@ Your REST app should consist of
 5. Post /api/users?{id}&avatar
 
 On the request store the user entry in db. After the creation, send an email and a rabbit event regarding the same.
+Backend- TS,JS
+Frontend- React
+Database - MongoDB
